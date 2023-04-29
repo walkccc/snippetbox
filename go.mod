@@ -9,4 +9,8 @@ require (
 	github.com/justinas/alice v1.2.0
 )
 
-require gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
+require (
+	github.com/alexedwards/scs/mysqlstore v0.0.0-20230327161757-10d4299e3b24 // indirect
+	github.com/alexedwards/scs/v2 v2.5.1 // indirect
+	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
+)
